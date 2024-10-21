@@ -1,0 +1,17 @@
+C:\Users\leopd\Desktop\Atividades DIO\nuget, Serializar e atributos no C#\bin\Debug\net8.0\nuget, Serializar e atributos no C#.exe
+C:\Users\leopd\Desktop\Atividades DIO\nuget, Serializar e atributos no C#\bin\Debug\net8.0\nuget, Serializar e atributos no C#.deps.json
+C:\Users\leopd\Desktop\Atividades DIO\nuget, Serializar e atributos no C#\bin\Debug\net8.0\nuget, Serializar e atributos no C#.runtimeconfig.json
+C:\Users\leopd\Desktop\Atividades DIO\nuget, Serializar e atributos no C#\bin\Debug\net8.0\nuget, Serializar e atributos no C#.dll
+C:\Users\leopd\Desktop\Atividades DIO\nuget, Serializar e atributos no C#\bin\Debug\net8.0\nuget, Serializar e atributos no C#.pdb
+C:\Users\leopd\Desktop\Atividades DIO\nuget, Serializar e atributos no C#\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\leopd\Desktop\Atividades DIO\nuget, Serializar e atributos no C#\obj\Debug\net8.0\nuget, Serializar e atributos no C#.csproj.AssemblyReference.cache
+C:\Users\leopd\Desktop\Atividades DIO\nuget, Serializar e atributos no C#\obj\Debug\net8.0\nuget, Serializar e atributos no C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopd\Desktop\Atividades DIO\nuget, Serializar e atributos no C#\obj\Debug\net8.0\nuget, Serializar e atributos no C#.AssemblyInfoInputs.cache
+C:\Users\leopd\Desktop\Atividades DIO\nuget, Serializar e atributos no C#\obj\Debug\net8.0\nuget, Serializar e atributos no C#.AssemblyInfo.cs
+C:\Users\leopd\Desktop\Atividades DIO\nuget, Serializar e atributos no C#\obj\Debug\net8.0\nuget, Serializar e atributos no C#.csproj.CoreCompileInputs.cache
+C:\Users\leopd\Desktop\Atividades DIO\nuget, Serializar e atributos no C#\obj\Debug\net8.0\nuget, S.D7D45F3F.Up2Date
+C:\Users\leopd\Desktop\Atividades DIO\nuget, Serializar e atributos no C#\obj\Debug\net8.0\nuget, Serializar e atributos no C#.dll
+C:\Users\leopd\Desktop\Atividades DIO\nuget, Serializar e atributos no C#\obj\Debug\net8.0\refint\nuget, Serializar e atributos no C#.dll
+C:\Users\leopd\Desktop\Atividades DIO\nuget, Serializar e atributos no C#\obj\Debug\net8.0\nuget, Serializar e atributos no C#.pdb
+C:\Users\leopd\Desktop\Atividades DIO\nuget, Serializar e atributos no C#\obj\Debug\net8.0\nuget, Serializar e atributos no C#.genruntimeconfig.cache
+C:\Users\leopd\Desktop\Atividades DIO\nuget, Serializar e atributos no C#\obj\Debug\net8.0\ref\nuget, Serializar e atributos no C#.dll
