@@ -27,5 +27,5 @@ NuGet é uma ferramenta que pode ser usada para otimizar o código.   A serializ
 ## 📚 Duvidas: 
 para isso pode ser usado alguns link de materiais como o material da DIO. </p> 
 
-- [Referencias](https://docs.google.com/presentation/d/1_lpjdmHuWMflfHTzt6Vl9rD0PbCQr9Mg/edit?pli=1#slide=id.p1)
+- [Referencias](https://docs.google.com/presentation/d/1gjfbkY0mOrETMVOCibrkfNWuqML9THSp/edit#slide=id.p1)
 
